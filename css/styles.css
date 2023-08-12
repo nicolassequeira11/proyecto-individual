@@ -188,3 +188,107 @@ a.custom-card:hover {
 .checked {
   color: orange;
 }
+
+/* CATEGORIES */
+
+.container-categories{
+  text-align: center;
+}
+
+.div-categories{
+  padding: 0.5em 0;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.div-content-categories{
+  padding: 1em 0;
+  margin: 1em;
+}
+
+.div-img-categories{
+
+}
+
+.img-categories{
+
+}
+
+.div-info-categories{
+  margin: 1em auto 0;
+}
+
+.title-info{
+  padding: 0.3em 0;
+}
+
+.description-info{
+
+}
+
+.count-info{
+
+}
+
+/* PRODUCTS */
+
+/* Cars */
+
+.container-products{
+  text-align: center;  
+}
+
+.div-products{
+  
+}
+
+.image-products{
+  padding: 1em;
+}
+
+.title-products{
+  font-size: 1.5em;
+  padding: 0.5em 0;
+}
+
+.description-products{
+  padding: 0 1.5em;
+}
+
+.cost-products{
+  padding: 0 1.5em;
+}
+
+.soldCount-products{
+  padding: 0 1.5em;
+}
+
+/* FORM LOGIN */
+
+.container-form-login{
+  margin: auto;
+}
+
+.form-login{
+  display: flex;
+  flex-direction: column;
+  margin: auto;
+}
+
+.form-login-img{
+  margin: auto;
+  justify-content: center;
+  display: flex;
+}
+
+.form-login-title{
+  margin: auto;
+  text-align: center;
+  padding: 1em 0 0.5em;
+}
+
+.form-login-input{
+  margin: auto;
+  padding: 1em;
+}
